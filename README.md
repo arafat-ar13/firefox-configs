@@ -4,8 +4,6 @@ I have started to use Firefox as my primary browser and this repository contains
 
 ## Setup user.js file
 
-***
-
 I use [Betterfox](https://github.com/yokoffing/Betterfox) to "harden" my Firefox installation so that by default things like Mozilla telemetry, trackers, etc. are blocked by default for a more private browsing experience. Betterfox is convenient for me in the sense that it does not cause breakages and works as intended.
 
 * Go to `about:config` on Firefox and check out which profile is current active. 
@@ -21,8 +19,6 @@ This `user.js` file comes directly from Betterfox, but it also has some [Betterf
 
 ## Smoothfox: Edge-like Scrolling
 
-***
-
 Betterfox also provides an Edge-like smooth scrolling experience on Firefox. They have a custom JS file called [Smoothfox](https://github.com/yokoffing/Betterfox/blob/master/Smoothfox.js) that enables this feature. To enable it:
 
 * Go to your `user.js` file
@@ -31,8 +27,6 @@ Betterfox also provides an Edge-like smooth scrolling experience on Firefox. The
 It really is just as good as Edge.
 
 ## Vertical Tabs on Firefox
-
-***
 
 It's also possible to get Edge-like vertical tabs on Firefox (If it's not apparent yet, I'm coming from Edge, and I still kinda like it). To get this feature, refer to [Firefox vertical tabs](https://github.com/ranmaru22/firefox-vertical-tabs) on GitHub. The repository contains all the instructions on how to enable this feature.
 
